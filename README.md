@@ -14,4 +14,4 @@
 상품명과 가격정보 주문하러가기를 넣어 주요 상품에 대한 정보전달을 했습니다.
 
 
-[리디자인 사이트 바로가기]<https://sook-young.github.io/popeyes/>
+[리디자인 사이트 바로가기](https://sook-young.github.io/popeyes/)
