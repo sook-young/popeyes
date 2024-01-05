@@ -1,0 +1,16 @@
+@charset 'utf-8';
+ @font-face {
+  font-family:'Nanum Gothic';
+  src:url(../fonts/NanumGothic-Regular.ttf);
+  font-weight:400;
+}
+@font-face {
+  font-family:'Nanum Gothic';
+  src:url(../fonts/NanumGothic-Bold.ttf);
+  font-weight:700;
+}
+@font-face {
+  font-family:'Nanum Gothic';
+  src:url(../fonts/NanumGothic-ExtraBold.ttf);
+  font-weight:800;
+}
